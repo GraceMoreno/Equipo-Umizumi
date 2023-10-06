@@ -42,7 +42,7 @@ printf("\n");
 }
 
 //---------------------------------------------------------------------------------------------------------
-// funcion para realizar los movimientos
+// funcion para realizar los movimientos, parte de Grace Moreno
 void movimientos(char arr[][3]){
    if(turno%2==1 && estallenaMatriz(arr)==0 ){
 do{
